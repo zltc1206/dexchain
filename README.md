@@ -8,7 +8,9 @@ Block to store transaction information and form DexChain
 
 **Transaction**
 Information about transaction, including sender, recipient, value, signature, inputs and outputs
+
 **TransactionInput**
+
 **TransactionOutput**
 
 **Wallet**

@@ -3,25 +3,25 @@ A simplistic block chain implemented with Java
 
 contains following classes:
 
-**Block:**
+**Block:**<br/>
 Block to store transaction information and form DexChain
 
-**Transaction:**
+**Transaction:**<br/>
 Information about transaction, including sender, recipient, value, signature, inputs and outputs
 
-**TransactionInput**
+**TransactionInput**<br/>
 
-**TransactionOutput**
+**TransactionOutput**<br/>
 
-**Wallet**
+**Wallet:**<br/>
 Contains private key, public key and UTXOs
 
-**DexChain**
+**DexChain:**<br/>
 Simple block chain
 
-**StringUtil**
+**StringUtil:**<br/>
 Some helper functions for string processing, hashcode, signature etc.
 
 
-*dependencies:*
+*dependencies:*<br/>
 need [bouncy castle](https://www.bouncycastle.org/latest_releases.html)

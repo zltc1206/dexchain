@@ -17,7 +17,7 @@ Information about transaction, including sender, recipient, value, signature, in
 Contains private key, public key and UTXOs
 
 **DexChain:**<br/>
-Simple block chain
+Simple block chain, with tests
 
 **StringUtil:**<br/>
 Some helper functions for string processing, hashcode, signature etc.
